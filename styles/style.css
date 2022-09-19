@@ -1,0 +1,33 @@
+html{
+    font-size: 10px;
+   background-color: #00539f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 640px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+    background-color: orangered;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 5px 3px 4px black;
+}
+
+p,
+li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
